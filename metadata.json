@@ -1,0 +1,8 @@
+{
+  "name": "Remix RydRover",
+  "description": "A mobile-first platform coordinating shared transportation for passengers and commercial drivers across Nigerian routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
